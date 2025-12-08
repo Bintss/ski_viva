@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
 mediapipe
-numpy<1.0.0
+numpy<2.0.0
 pillow
 opencv-python-headless

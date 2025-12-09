@@ -17,9 +17,6 @@ import math
 # ---------------------------------------------------------
 if "GOOGLE_API_KEY" in st.secrets:
     GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
-else:
-    # 로컬 테스트용 (배포 시에는 secrets가 우선됨)
-    GOOGLE_API_KEY = "AIzaSyANlIKJWsIon4JbrR2U-WUosLkfGts8PYs"
 
 try:
     genai.configure(api_key=GOOGLE_API_KEY)

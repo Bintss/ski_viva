@@ -3,3 +3,4 @@ google-generativeai
 mediapipe
 numpy
 pillow
+opencv-python-headless

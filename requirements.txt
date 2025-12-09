@@ -4,3 +4,4 @@ mediapipe
 numpy<2.0.0
 pillow
 cv2
+opencv-python-headless

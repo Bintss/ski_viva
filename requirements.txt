@@ -3,4 +3,4 @@ google-generativeai
 mediapipe
 numpy
 pillow
-opencv-python-headless
+protobuf<4.0.0

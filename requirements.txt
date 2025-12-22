@@ -4,3 +4,4 @@ mediapipe
 numpy
 pillow
 protobuf<4.0.0
+cv2
